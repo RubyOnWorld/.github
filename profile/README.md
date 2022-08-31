@@ -1,9 +1,9 @@
-## Rustacean Labs
+# **Rustacean Labs**
 
+Welcome to @Rustacean-Labs where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
 
+## Organizer
 
-**The World Famous Rustaceans Commnuity**
+> Rustacean-Labs [here](https://github.com/Rustacean-Labs)   
 
-🙋‍♀️ Everyone loves Rust would join this community and contribute to open-source.
-
-😎 Rustacean-Labs organized by James Johnson.
+<a href="https://github.com/xmas7">👋 Organized by <strong>James Johnson</strong> </a>
