@@ -4,7 +4,7 @@ Welcome to @Rustacean-Labs where anyone interested in designing and coding can c
 
 ## How to join this community
 1. Email to rustacean.labs@gmail.com with your github username.
-2. Within 24 working hours you will get git hub invite of this organization.
+2. Within 24 working hours you will get github invite of this organization.
 3. Accept invite!
 
 ## Organizer
