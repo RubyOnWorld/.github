@@ -1,4 +1,4 @@
-(./RustCommunity.png)
+![RustCommunity](./RustCommunity.png)
 
 # **Rustacean Labs**
 
