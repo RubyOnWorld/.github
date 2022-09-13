@@ -1,4 +1,4 @@
-![RustCommunity](RustCommunity.png)
+![RustCommunity](https://github.com/Rustacean-Labs/.github/blob/main/profile/RustCommunity.png)
 
 # **Rustacean Labs**
 
