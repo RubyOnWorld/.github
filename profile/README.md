@@ -9,6 +9,9 @@ Welcome to @RubyOnWorld where anyone interested in designing and coding can conn
 2. Within 24 working hours you will get github invite of this organization.
 3. Accept invite!
 
+## Great Contributors 💖
+James Johnson, Edouard MacKenzie, Chris Hunter, Benjamin Smith, Karen, Anthony Watson, William Millucas, Thomas Luis, Elon Hunter, Tony, Mathew Carol, William Hamson, Taylor Tadash, Aaron, Edward, Jackson Miller, Dmitriy Mazilin, Hong Mao Zu, Daniel Williams...
+
 ## Organizer
 
 > RubyOnWorld [here](https://github.com/RubyOnWorld)   
