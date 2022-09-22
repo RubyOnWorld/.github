@@ -1,4 +1,4 @@
-![RubyCommunity](https://github.com/RubyOnWorld/.github/blob/main/profile/RustImage.png)
+![RubyCommunity](https://github.com/RubyOnWorld/.github/blob/main/profile/RubyOnRails.jpg)
 
 # **Ruby On World**
 
