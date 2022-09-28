@@ -12,8 +12,4 @@ Welcome to @RubyOnWorld where anyone interested in designing and coding can conn
 ## Great Contributors 💖
 James Johnson, Edouard MacKenzie, Chris Hunter, Benjamin Smith, Karen, Anthony Watson, William Millucas, Thomas Luis, Elon Hunter, Tony, Mathew Carol, William Hamson, Taylor Tadash, Aaron, Edward, Jackson Miller, Dmitriy Mazilin, Hong Mao Zu, Daniel Williams...
 
-## Organizer
-
-> RubyOnWorld [here](https://github.com/RubyOnWorld)   
-
 <a href="https://github.com/xmas7">👋 Organized by <strong>James Johnson</strong> </a>
